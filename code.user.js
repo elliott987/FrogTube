@@ -112,6 +112,7 @@
     "Frog Enthusiast",
     "The Daily Croak",
     "Frog News",
+    "British Batrachain Croakation",
   ];
 
   function getRandomName() {
